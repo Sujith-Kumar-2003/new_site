@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/new_site/static/css/main.15130d6d.css",
+    "main.js": "/new_site/static/js/main.97cd26fa.js",
+    "static/js/453.634a5c21.chunk.js": "/new_site/static/js/453.634a5c21.chunk.js",
+    "static/media/tabinator.png": "/new_site/static/media/tabinator.53abf79a36c717060d30.png",
+    "static/media/kirkview.png": "/new_site/static/media/kirkview.e449a0df6a801884135e.png",
+    "static/media/me.png": "/new_site/static/media/me.a49cb054955b9c468c8a.png",
+    "static/media/studyBrew.jpg": "/new_site/static/media/studyBrew.e83f8395d3b83d7f12e6.jpg",
+    "static/media/desyncron_site.png": "/new_site/static/media/desyncron_site.bab605a5b2c3d656ee73.png",
+    "static/media/marketPath.png": "/new_site/static/media/marketPath.d8096cc743e99f7e29ff.png",
+    "static/media/wildwatcher.png": "/new_site/static/media/wildwatcher.7f6321221b256d0d964f.png",
+    "index.html": "/new_site/index.html",
+    "main.15130d6d.css.map": "/new_site/static/css/main.15130d6d.css.map",
+    "main.97cd26fa.js.map": "/new_site/static/js/main.97cd26fa.js.map",
+    "453.634a5c21.chunk.js.map": "/new_site/static/js/453.634a5c21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15130d6d.css",
+    "static/js/main.97cd26fa.js"
+  ]
+}
